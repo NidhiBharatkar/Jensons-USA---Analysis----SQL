@@ -23,3 +23,11 @@ This repository contains SQL queries designed to perform data analysis for Jenso
 * Track top-selling products.
 * Identify products that have never been ordered.
 * Calculate the median price of products.
+## Key Insights
+* Identifying products with the highest sales and customers who spend the most helps in targeting marketing efforts and optimizing inventory.
+* Finding staff members who are underperforming can guide training and incentives to improve overall sales.
+* Monitoring cumulative sales data and top products ensures inventory is aligned with demand.
+## Recommendations
+* Training Programs: Provide training for staff with no sales and reward high performers.
+* Targeted Marketing: Create personalized offers for top customers and promote top-selling products.
+* Inventory Management: Discontinue products that have never been ordered and ensure top products are always in stock.
