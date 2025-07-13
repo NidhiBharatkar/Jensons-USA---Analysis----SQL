@@ -12,14 +12,14 @@ This repository contains SQL queries designed to perform data analysis for Jenso
 * Recommendations
 * Contact
 ## Project Goals
-1 Optimize Store and Staff Performance:
+### 1. Optimize Store and Staff Performance:
 * Identify the total number of products sold by each store.
 * Find staff members who have not made any sales.
 * List the names of staff members who have made more sales than the average.
-2 Enhance Customer Experience:
+### 2. Enhance Customer Experience:
 * Identify customers who spent the most money.
 * Find customers who have ordered all types of products.
-3.Improve Inventory Management:
+### 3. Improve Inventory Management:
 * Track top-selling products.
 * Identify products that have never been ordered.
 * Calculate the median price of products.
